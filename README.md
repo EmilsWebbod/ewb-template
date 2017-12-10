@@ -9,10 +9,12 @@ Update the package.npm.json to update your name and npm package name
 
 # Publish
 ```
-run npm publish
+cd dist/
+npm publish
 ```
 
 # Update npm
 ```
+cd dist/
 npm version patch|minor|major
 ```
