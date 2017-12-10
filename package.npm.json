@@ -1,0 +1,26 @@
+{
+  "name": "ewb-template",
+  "version": "1.0.0",
+  "description": "Template module for angular npm",
+  "main": "bundles/template.umd.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "keywords": [
+    "angular",
+    "angular 5"
+  ],
+  "author": "Emils WebBod",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emilswebbod/ewb-template"
+  },
+  "homepage": "https://github.com/emilswebbod/ewb-template",
+  "bugs": {
+    "url": "https://github.com/emilswebbod/ewb-template/issues"
+  },
+  "peerDependencies": {
+    "@angular/core": "^5.0.0 || ^5.1.0",
+    "rxjs": "^5.4.2"
+  }
+}
