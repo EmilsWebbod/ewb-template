@@ -1,6 +1,8 @@
 import { TestBed, inject } from '@angular/core/testing';
 
+
 import { EwbTemplateService } from './ewbTemplate.service';
+console.log('Test', TestBed, inject, EwbTemplateService)
 
 describe('TemplateService', () => {
   beforeEach(() => {

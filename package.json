@@ -1,5 +1,5 @@
 {
-  "name": "ewp-template",
+  "name": "ewb-template",
   "version": "1.0.0",
   "description": "Simple angular template for pushing up to npm",
   "main": "index.ts",
